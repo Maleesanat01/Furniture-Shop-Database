@@ -23,4 +23,4 @@ Key Features:
 
 ## Authors
 
-- **Maleesa Hettiarachchi** - *Computer Science undergrad* - [Maleesa Hettiarachchi](https://github.com/Maleesanat01/) - **
+- **Maleesa Hettiarachchi** - *Computer Science undergrad* - [Maleesa Hettiarachchi](https://github.com/Maleesanat01/)
