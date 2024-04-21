@@ -1,5 +1,5 @@
 <p align="Left">
-<h1>Furniture Shop Back-end System 🛋️</h1>
+<h1>Furniture Store Back-end System 🛋️</h1>
 </p>
 
 ## Description
