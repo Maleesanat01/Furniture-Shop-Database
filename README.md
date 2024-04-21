@@ -5,7 +5,7 @@
 ## Description
 
 
-This repository contains the back-end system for managing furniture inventory, invoices, deliveries, and custom furniture requests. Developed after thorough requirement analysis, the system is designed to efficiently handle various aspects of a furniture shop's operations. The database schema was designed using an Entity-Relationship Diagram (ERD) to ensure optimal organization and functionality. 
+This repository contains the back-end system for managing furniture inventory, invoices, deliveries, and custom furniture requests. Developed after thorough requirement analysis and conceptual designs (ERDs), the system is designed to efficiently handle various aspects of a furniture shop's operations. The database schema was designed using an Entity-Relationship Diagram (ERD) to ensure optimal organization and functionality. 
 <br>
 
 Key Features:
